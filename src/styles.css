@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  /* Need to set height here just for testing purposes
+  you won't need it in real world
+   */
+  height: 600px;
+}
+
+#app {
+  height: 100%;
+}
+
+.container {
+  outline: 1px solid gold;
+}
+
+form {
+  outline: 1px solid blue;
+}
